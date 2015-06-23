@@ -1,0 +1,26 @@
+{
+  "name": "load-ionic",
+  "version": "0.1.0",
+  "description": "Load dynamic ionic versions",
+  "main": "js/load-ionic.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/felquis/load-ionic.git"
+  },
+  "keywords": [
+    "load-ionic",
+    "ionic"
+  ],
+  "author": "Felquis Gimenes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/felquis/load-ionic/issues"
+  },
+  "homepage": "https://github.com/felquis/load-ionic"
+}
